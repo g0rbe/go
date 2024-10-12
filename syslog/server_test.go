@@ -3,7 +3,7 @@ package syslog_test
 import (
 	"testing"
 
-	"gorbe.io/go/g/syslog"
+	"gorbe.io/go/syslog"
 )
 
 func TestServer(t *testing.T) {

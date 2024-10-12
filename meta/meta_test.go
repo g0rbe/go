@@ -3,7 +3,7 @@ package meta_test
 import (
 	"testing"
 
-	"gorbe.io/go/g/meta"
+	"gorbe.io/go/meta"
 )
 
 func TestMetaTitle(t *testing.T) {
